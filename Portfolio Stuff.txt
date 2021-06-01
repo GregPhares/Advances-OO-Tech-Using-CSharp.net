@@ -1,5 +1,0 @@
-Slack app personal project
-personal javascript programming project with sockets
-minitwitter personal project javascript
-full stack personal projects
-anything with charting visualization d3
